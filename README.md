@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of flamarkt/backoffice.** Not for installation: use [Packagist](https://packagist.org/packages/flamarkt/backoffice) or the [upstream repository](https://github.com/flamarkt/backoffice).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.2`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-03-28 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-04-01 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-11-10 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-11-21 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.3) |
+| `0.1.4` | 2024-06-01 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-backoffice/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/flamarkt-backoffice.json](https://github.com/flarchive/archive-index/blob/main/packages/flamarkt-backoffice.json)
 
